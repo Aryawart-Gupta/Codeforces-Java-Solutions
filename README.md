@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 7 |
+| 20 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -49,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
@@ -83,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
