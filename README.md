@@ -10,7 +10,7 @@
 
 ---
 
-## 📂 Topic-Wise Problems
+##  Topic-Wise Problems
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
