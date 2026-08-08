@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 7 |
+| 19 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 
 ---
 
@@ -60,6 +60,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 
@@ -88,6 +89,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/Aryawart-Gupta/Codeforces-Java-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ---
 
